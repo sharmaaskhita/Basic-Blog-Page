@@ -1,0 +1,83 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mainimg
+{
+    width: 100%;
+}
+.topdiv
+{
+    position: relative;
+    top: 0px;
+    left: 0px;
+   
+}
+.blogdiv
+{
+    position: absolute;
+    top:70%;
+    left:3%;
+    
+}
+.navdiv
+{
+    position: absolute;
+    top:3%;
+    right:3%;
+    
+}
+.heading1
+{
+    font-weight: 700;
+    font-size:200%;
+    color: white;
+}
+
+.heading2
+{
+    font-weight: 700;
+    font-size: 150%;
+}
+
+.gallery1
+{
+    background-image: url(img1.jpg);
+    background-size: 100%;
+    
+}
+
+.gallery2
+{
+    background-image: url(img2.jpg);
+    background-size: 100%;
+}
+.textsize
+{
+    font-size: x-small;
+}
+.firstimage
+{
+    position: relative;
+    top:50%;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+.tagflex
+{
+    height:fit-content;
+}
+
+.lists
+{
+    list-style-type: none;
+}
+
+.blackbg
+{
+    background-color: black;
+}
